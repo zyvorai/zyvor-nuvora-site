@@ -10,4 +10,4 @@ docker pull ghcr.io/zyvorai/zyvor-nuvora:latest
 
 ## License
 
-Nuvora requires a commercial license from Zyvor AI Labs to run; a 30-day trial key is available. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Sales: sales@zyvor.dev · https://zyvor.dev/buy
+Nuvora is under the Zyvor Production License v1.0: free for evaluation, development, testing, research and education; any production use requires a paid commercial license from Zyvor AI Labs. A 30-day trial key is available (https://zyvor.dev/trial/start). Pricing: https://zyvor.dev/pricing. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Sales: sales@zyvor.dev · https://zyvor.dev/buy
